@@ -1,8 +1,8 @@
 import javax.swing.JOptionPane;
-public class DebugOne4
+public class FixDebugOne4  // change DebugOne4 to FixDebugOne4
 {
-  public static main(String[] args)
+  public static void main(String[] args)    // missing void
   {
-     JOptionPane.showMessageDialog(null, First GUI program)!
+     JOptionPane.showMessageDialog(null, "First GUI program");  // missing inverted commas and wrong sign used (! instead of ;)
   }
 }
