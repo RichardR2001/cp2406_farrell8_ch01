@@ -6,7 +6,7 @@ public class FixDebugOne2   // change DebugOne2 to FixDebugOne2
       System.out.println("Java programming is fun.");
       System.out.println("Getting a program to work");
       System.out.println("can be a challenge,");
-      System.out.prnitln("but when everything works correctly,");
+      System.out.println("but when everything works correctly,");
       System.out.println("it's very satisfying");
    }
 }
